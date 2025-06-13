@@ -1,0 +1,17 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+
+# Node.js
+node_modules/
+.env
+
+# Docker
+*.log
+*.pid
+*.tar
+
+# info
+url_docker.txt  
+url-repo-ECR
