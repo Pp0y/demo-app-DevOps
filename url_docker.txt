@@ -1,0 +1,16 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:ap-southeast-2:613860946602:repository/demo-app",
+        "registryId": "613860946602",
+        "repositoryName": "demo-app",
+        "repositoryUri": "613860946602.dkr.ecr.ap-southeast-2.amazonaws.com/demo-app",
+        "createdAt": "2025-06-10T10:32:05.292000+00:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": false
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
